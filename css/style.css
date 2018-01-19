@@ -22,8 +22,9 @@ body {
 header {
   padding: 10px;
   margin: 0 0 5px;
+  font-size: 5em;
+  font-weight: normal;
   font-family: Baskerville;
-  font-size: 2em;
   text-decoration: none;
 }
 

@@ -63,7 +63,14 @@ header a {
 
 /*////////// Press Section Styles //////////*/
 
+#press {
+	margin-bottom: 20px;
+}
 
+/*#press img {
+	border: 5px #ccc solid;
+	padding: 1px;
+}*/
 
 /*////////// Footer Styles //////////*/
 

@@ -20,6 +20,7 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+	border: 1px solid #f00;
 }
 
 h1 {

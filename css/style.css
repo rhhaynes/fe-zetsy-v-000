@@ -52,7 +52,7 @@ header a {
 /*////////// About Section Styles //////////*/
 
 #about img {
-	border: 5px rgb(152,173,166) solid;
+	border: 5px solid rgb(152,173,166);
 }
 
 #about a {
@@ -67,7 +67,7 @@ header a {
 }
 
 #press img {
-	border: 5px #ccc solid;
+	border: 5px solid #ccc;
 	padding: 1px;
 }
 

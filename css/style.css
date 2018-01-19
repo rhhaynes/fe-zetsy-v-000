@@ -22,9 +22,7 @@ body {
 	padding: 0 45px 20px;
 }
 
-/*////////// Header Styles //////////*/
-
-header h1 {
+h1 {
   padding: 10px;
   margin: 0 0 5px;
   font-size: 5em;
@@ -33,6 +31,12 @@ header h1 {
   text-decoration: none;
   border-bottom: 1px solid #ccc;
 }
+
+h2 {
+  
+}
+
+/*////////// Header Styles //////////*/
 
 header a {
 	color: rgb(152,173,166);

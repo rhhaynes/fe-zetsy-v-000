@@ -49,6 +49,10 @@ header a {
 	text-decoration: none;
 }
 
+header a:hover {
+	color: rgb(111,127,122);
+}
+
 /*////////// About Section Styles //////////*/
 
 #about img {

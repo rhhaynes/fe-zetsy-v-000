@@ -79,6 +79,10 @@ header a:hover {
 	padding: 1px;
 }
 
+#press img:hover {
+	border: 5px solid rgb(111,127,122);
+}
+
 /*////////// Footer Styles //////////*/
 
 footer {
